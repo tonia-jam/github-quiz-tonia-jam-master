@@ -6,7 +6,7 @@
 ## 1. Which of the descriptions below accurately describes Git?
 - Type of corporate repository
 - Error tracker
-- Version control system
+- **Version control system**
 - File server
 
 ## 2. What's the git command that downloads your repository from GitHub to your computer?
